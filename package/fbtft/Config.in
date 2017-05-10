@@ -10,4 +10,4 @@ config BR2_PACKAGE_FBTFT
 
 	  This is only the download helper for the kernel patch.
 
-	  https://github.com/notro/fbtft
+	  https://github.com/nickfox-taterli/fbtft
